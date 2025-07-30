@@ -36,6 +36,7 @@ header span {
     display: flex; /* Включаем flexbox */
     justify-content: center; /* Центрирование по вертикали */
     height: 800px;
+    align-items: center;
 }
 
 .main-section .wrapper {
